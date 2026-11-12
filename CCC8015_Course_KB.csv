@@ -1,0 +1,29 @@
+﻿course_code,title,credits,day_time,venue,prerequisite,requirement_type,assessment
+CCC8011,Critical Thinking: Analysis and Argumentation,3,FRI 15:30-16:59; WED 15:30-16:59,MBG12,No prerequisite,Common Core,Verify on course outline
+CCC8012,The Making of Hong Kong,3,WED 09:30-11:29,MBG22,No prerequisite,Common Core,Verify on course outline
+CCC8013,The Process of Science,3,THU 09:30-10:59,MBG22,No prerequisite,Common Core,Verify on course outline
+CCC8014,China in World History,3,THU 13:30-15:29,MBG22,No prerequisite,Common Core,Verify on course outline
+CCC8015,Generative Artificial Intelligence,3,THU 15:30-17:29,MBG22,No prerequisite,Common Core,Lecture quiz 24%; Lab quiz 12%; Group project 30%; Assignments 14%; Attendance 20%
+BUS1102,Statistics for Business,3,FRI 09:30-10:59; WED 12:00-13:29; WED 12:00-13:29; FRI 09:30-10:59,LCH213,No prerequisite,Major - Business,Verify on course outline
+BUS1103,Financial Accounting,3,MON 13:30-16:29,MBG11,No prerequisite,Major - Business,Verify on course outline
+BUS1104,Managerial Accounting,3,WED 13:30-16:29,LKK302,BUS1103 Financial Accounting,Major - Business,Verify on course outline
+BUS2105,Microeconomics for Business,3,FRI 15:30-18:29,LKK301,No prerequisite,Major - Business,Verify on course outline
+BUS2107,Legal Aspects of Business,3,FRI 15:30-18:29,LKK103,No prerequisite,Major - Business,Verify on course outline
+BUS2108,Global Business Environment,3,THU 15:30-18:29,LKK202,No prerequisite,Major - Business,Verify on course outline
+BUS2201,Financial Management,3,TUE 09:30-12:29,LKK202,a) BUS1102 Statistics for Business/ ECO3105 Introduction to Statistics,Major - Business,Verify on course outline
+BUS2202,Organisational Behaviour,3,MON 13:30-16:29,LKK103,No prerequisite,Major - Business,Verify on course outline
+ECO2101,Introduction to Economics,3,MON 09:30-11:29,MBG22,No prerequisite,Major - Economics,Verify on course outline
+ECO2103,Financial Information and Management,3,MON 09:30-11:29,LKK301,No prerequisite,Major - Economics,Verify on course outline
+ECO3001,The Hong Kong Housing Market,3,MON 14:30-16:29,LYH316,"a) ECO2101 Introduction to Economics, or (b) ECO2104 Introduction to",Major - Economics,Verify on course outline
+CLA9002,Hong Kong Art,3,FRI 15:30-18:29,MBG01,No prerequisite,Cluster - Creativity and Innovation,Verify on course outline
+CLA9005,Economics of Culture and Creativity,3,FRI 15:30-17:29,LBYG06,No prerequisite,Cluster - Creativity and Innovation,Verify on course outline
+CLB9001,Masterpieces in Chinese Literature 中國文學名著選讀,3,WED 16:30-18:29,LKK301,No prerequisite,Cluster - Humanities and the Arts,Verify on course outline
+CLB9006,Media Literacy,3,WED 09:30-11:29,SEK104,No prerequisite,Cluster - Humanities and the Arts,Verify on course outline
+CLC9002,Managing Personal Finance,3,FRI 15:00-17:59,LKK307,No prerequisite,Cluster - Management and Society,Verify on course outline
+CLC9003,Understanding Investment in the Stock Market,3,TUE 09:30-12:29,SEK108,No prerequisite,Cluster - Management and Society,Verify on course outline
+CLD9003,Statistics in Modern Society,3,THU 17:00-18:29; TUE 15:00-16:29,SEK108,No prerequisite,"Cluster - Science, Technology, Mathematics and Society",Verify on course outline
+CLD9004,Mathematical Literacy in Today's World,3,MON 12:30-15:29,LKK107,No prerequisite,"Cluster - Science, Technology, Mathematics and Society",Verify on course outline
+CLE9003,Why People Pay Taxes,3,THU 14:00-15:29; TUE 14:00-15:29,LKK101,No prerequisite,"Cluster - Values, Cultures and Societies",Verify on course outline
+CLE9012,Financial Markets and Their Impacts on Society,3,FRI 14:00-16:59,LKK105,No prerequisite,"Cluster - Values, Cultures and Societies",Verify on course outline
+PSY2101,Introduction to Psychology,3,TUE 16:30-18:29,LYH316,No prerequisite,Major - Psychology,Verify on course outline
+PSY3004,Introduction to Consumer Psychology,3,TUE 16:30-18:29,SEKG09,PSY2101 Introduction to Psychology,Major - Psychology,Verify on course outline
